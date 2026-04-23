@@ -1,21 +1,24 @@
 # OmniFlow Releases
 
-Pre-built wheel packages for OmniFlow.
+Pre-built wheel packages for OmniFlow (Alpine Linux / OOB).
 
 ## Latest Version
 
-**Version:** 0.2.0
+- **Version:** 0.3.0+bc264d5
+- **Wheel:** omniflow-latest-alpine.whl
+- **Commit:** bc264d5
+- **Built:** 2026-04-23 17:11 UTC
 
-## Download
+## Install
 
 ```bash
-# Latest version
-pip install https://github.com/omnimind-ai/omniflow-release/releases/latest/download/omniflow-latest-py3-none-any.whl
+# OOB Alpine
+pip install https://github.com/omnimind-ai/omniflow-release/raw/main/wheels/omniflow-latest-alpine.whl
 
-# Specific version
-pip install https://github.com/omnimind-ai/omniflow-release/releases/download/v0.2.0/omniflow-0.2.0-py3-none-any.whl
+# Or specific version
+pip install https://github.com/omnimind-ai/omniflow-release/raw/main/wheels/omniflow-latest-alpine.whl
 ```
 
-## Release History
+## Compiled Modules
 
-See [Releases](https://github.com/omnimind-ai/omniflow-release/releases) for all versions.
+None
