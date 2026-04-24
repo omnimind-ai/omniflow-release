@@ -4,10 +4,10 @@ Pre-built wheel packages for OmniFlow (Alpine Linux / OOB).
 
 ## Latest Version
 
-- **Version:** 0.3.0+9f6c6c7
+- **Version:** 0.3.0+780b0c4
 - **Wheel:** omniflow-latest-alpine.whl
-- **Commit:** 9f6c6c7
-- **Built:** 2026-04-24 03:36 UTC
+- **Commit:** 780b0c4
+- **Built:** 2026-04-24 06:37 UTC
 
 ## Install
 
